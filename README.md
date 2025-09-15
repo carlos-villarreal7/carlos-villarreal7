@@ -6,20 +6,20 @@ I believe the true power of data is not only in coding or building models, but i
 
 ---
 
-## 🔧 Skills & Tools  
+## Skills & Tools  
 - **Programming & Analytics:** Python, SQL, Applied Statistics  
 - **Business Background:** Finance, Marketing, Business Strategy  
 - **Other Tools:** Excel (Power Query, Pivot Tables, Dashboards), Power BI, Adobe Illustrator, CapCut  
 
 ---
 
-## 🎯 What I Do  
+## What I Do  
 - Clean, transform, and analyze datasets to uncover meaningful patterns  
 - Bridge **business strategy** with **data-driven evidence**  
 - Create visual narratives that make complex data clear and actionable  
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/carlos-villarrealc)  
-- 📧 carlosdvillarreal7@gmail.com  
+- carlosdvillarreal7@gmail.com  
