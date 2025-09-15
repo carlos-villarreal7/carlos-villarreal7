@@ -6,29 +6,29 @@ I believe the true power of data is not only in coding or building models, but i
 
 ---
 
-# 🔧 Skills & Tools  
+## 🔧 Skills & Tools  
 
 **Programming & Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Statistics](https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)  
 
 **Notebooks & Visualization**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 
 **Business Background**  
-![Finance](https://img.shields.io/badge/Finance-003366?style=for-the-badge&logo=wise&logoColor=white)  
-![Marketing](https://img.shields.io/badge/Marketing-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  
+![Finance](https://img.shields.io/badge/Finance-003366?style=for-the-badge&logo=wise&logoColor=white) 
+![Marketing](https://img.shields.io/badge/Marketing-FF0000?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Business Strategy](https://img.shields.io/badge/Strategy-008080?style=for-the-badge&logo=target&logoColor=white)  
 
 **Other Tools**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)  
 
 ---
