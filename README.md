@@ -6,7 +6,7 @@ I believe the true power of data is not only in coding or building models, but i
 
 ---
 
-## ## 🔧 Skills & Tools  
+# 🔧 Skills & Tools  
 
 **Programming & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -30,7 +30,6 @@ I believe the true power of data is not only in coding or building models, but i
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)  
-
 
 ---
 
