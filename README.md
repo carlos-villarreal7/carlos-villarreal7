@@ -1,16 +1,25 @@
-## Hi there 👋
+# About Me!
 
-<!--
-**carlos-villarreal7/carlos-villarreal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Administration professional with experience in **finance and marketing**, currently pursuing a **Master’s in Data Analytics** in Canada.  
 
-Here are some ideas to get you started:
+I believe the true power of data is not only in coding or building models, but in **translating numbers into decisions that drive organizations forward**. My strength lies in combining the analytical mindset of a data professional with the strategic vision of a business manager.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools  
+- **Programming & Analytics:** Python, SQL, Applied Statistics  
+- **Business Background:** Finance, Marketing, Business Strategy  
+- **Other Tools:** Excel (Power Query, Pivot Tables, Dashboards), Power BI, Adobe Illustrator, CapCut  
+
+---
+
+## 🎯 What I Do  
+- Clean, transform, and analyze datasets to uncover meaningful patterns  
+- Bridge **business strategy** with **data-driven evidence**  
+- Create visual narratives that make complex data clear and actionable  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/carlos-villarrealc)  
+- 📧 carlosdvilarrreal7@gmail.com  
