@@ -9,7 +9,7 @@ I believe the true power of data is not only in coding or building models, but i
 ## Skills & Tools  
 - **Programming & Analytics:** Python, SQL, Applied Statistics  
 - **Business Background:** Finance, Marketing, Business Strategy  
-- **Other Tools:** Excel (Power Query, Pivot Tables, Dashboards), Power BI, Adobe Illustrator, CapCut  
+- **Other Tools:** Excel (Power Query, Pivot Tables, Dashboards), Power BI.
 
 ---
 
