@@ -22,4 +22,4 @@ I believe the true power of data is not only in coding or building models, but i
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/carlos-villarrealc)  
-- 📧 carlosdvilarrreal7@gmail.com  
+- 📧 carlosdvillarreal7@gmail.com  
