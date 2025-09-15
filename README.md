@@ -6,7 +6,7 @@ I believe the true power of data is not only in coding or building models, but i
 
 ---
 
-## 🔧 Skills & Tools  
+##  Skills & Tools  
 
 **Programming & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
