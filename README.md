@@ -26,8 +26,6 @@ I believe the true power of data is not only in coding or building models, but i
 **Other Tools**  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)  
 
 ## What I Do  
 - Clean, transform, and analyze datasets to uncover meaningful patterns  
