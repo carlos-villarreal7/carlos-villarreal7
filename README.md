@@ -1,6 +1,6 @@
 # About Me!
 
-Business Administration professional with a background in finance and marketing, currently pursuing a Master’s in Data Analytics in Canada. Skilled in leveraging data to drive strategic decisions and bridge the gap between business and technology. 
+Business Administration professional with a background in **finance and marketing**, currently pursuing a **Master’s in Data Analytics in Canada**. Skilled in leveraging data to drive strategic decisions and bridge the gap between business and technology. 
 
 ##  Skills & Tools  
 
