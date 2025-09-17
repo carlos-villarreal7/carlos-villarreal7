@@ -1,8 +1,6 @@
 # About Me!
 
-Business Administration professional with experience in **finance and marketing**, currently pursuing a **Master’s in Data Analytics** in Canada.  
-
-I believe the true power of data is not only in coding or building models, but in **translating numbers into decisions that drive organizations forward**. My strength lies in combining the analytical mindset of a data professional with the strategic vision of a business manager.  
+Business Administration professional with a background in finance and marketing, currently pursuing a Master’s in Data Analytics in Canada. Skilled in leveraging data to drive strategic decisions and bridge the gap between business and technology. 
 
 ##  Skills & Tools  
 
